@@ -2,3 +2,4 @@ This is the repository introduction.
 This repo will contain hello world code or multiple languages
 1. Java helloWorld
 2. Python HelloWorld
+3. Scala HelloWorld
