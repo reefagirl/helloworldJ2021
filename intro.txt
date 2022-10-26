@@ -3,3 +3,7 @@ This repo will contain hello world code or multiple languages
 1. Java helloWorld
 2. Python HelloWorld
 3. Scala HelloWorld
+4. HTML HelloWorld
+5. JavaScript HelloWorld
+6. Kotlin HelloWorld
+7. C# HelloWorld
